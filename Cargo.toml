@@ -1,0 +1,12 @@
+[package]
+name = "guess-the-number"
+version = "0.1.0"
+description = "A simple guess the number game by help of rust book to learn rust"
+readme = "README.md"
+repository = "https://github.com/mamal72/rust-guess-the-number"
+license = "MIT"
+authors = ["Mohamad Jahani <m4m4lj@gmail.com>"]
+
+[dependencies]
+
+rand = "0.3.0"
